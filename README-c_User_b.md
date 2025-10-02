@@ -12,3 +12,4 @@ You can enter *sAMAccountName*, *DistinguishedName*, *objectSid* or *objectGUID*
 Lists
  - *propParam* properties to look for in each domain controller.
  - *propSelect* properties to display at output. [Converts](https://www.epochconverter.com/ldap) the 18-digit LDAP/FILETIME timestamps BadPasswordTime, LastLogon, LockoutTime and PwdLastSet to human-readable dates. The timestamp is the number of 100-nanosecond intervals since 1 January 1601 UTC (1 nanosecond = one billionth of a second).
+ - *getParams* parameters that should be passed to the [Get-ADUser](https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-aduser?view=windowsserver2025-ps) cmdlet
