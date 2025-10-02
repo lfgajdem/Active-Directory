@@ -1,2 +1,3 @@
-# Active-Directory
-A repository for scripts relating to AD.
+## Check whether the user is blocked on any domain controller.
+### Description
+
