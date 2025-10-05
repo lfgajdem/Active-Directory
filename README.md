@@ -20,9 +20,9 @@ Lists
    alt="Here is an example of a user who does not exist." 
    title="User not exist">
 </figure>
-<br/>
+
 <figure>
-  <figcaption>Fig.2 The system detected an attempt to log in as a guest user.</figcaption>
+  <figcaption><sub>Fig.2 The system detected an attempt to log in as a guest user.</sub></figcaption>
   <img src="./images/cUserB02.png" 
    alt="The system detected an attempt to log in as a guest user." 
    title="guest user">
