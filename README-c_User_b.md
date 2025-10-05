@@ -14,8 +14,8 @@ Lists
  - *ErrorAction = "SilentlyContinue"* errors are not displayed in the console. 
  - *Try/Catch* error handling Terminating
 
-
-![Here is an example of a user who does not exist.](./images/cUserB01.png "Titulo de la imagen")
+Here is an example of a user who does not exist.
+![Here is an example of a user who does not exist.](./images/cUserB01.png "User not exist")
 
 
 ![The system detected an attempt to log in as a guest user.](./images/cUserB02.png)
