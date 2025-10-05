@@ -16,4 +16,5 @@ Lists
 
 ![Here is an example of a user who does not exist.](./images/cUserB01.png "Text under the image")
 
+
 ![The system detected an attempt to log in as a guest user.](./images/cUserB02.png)
