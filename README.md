@@ -15,14 +15,14 @@ Lists
  - *Try/Catch* error handling Terminating
 
 <figure>
- <figcaption>Here is an example of a user who does not exist.</figcaption>
+ <figcaption>Fig.1 Here is an example of a user who does not exist.</figcaption>
   <img src="./images/cUserB01.png" 
    alt="Here is an example of a user who does not exist." 
    title="User not exist">
 </figure>
 
 <figure>
- <figcaption>The system detected an attempt to log in as a guest user.</figcaption>
+ <figcaption>Fig.2 The system detected an attempt to log in as a guest user.</figcaption>
   <img src="./images/cUserB02.png" 
    alt="The system detected an attempt to log in as a guest user." 
    title="guest user">
