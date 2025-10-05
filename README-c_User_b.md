@@ -13,9 +13,9 @@ Lists
  - *ErrorVariable = $errLog* a list of errors that have occurred since the command was called is stored in error.log.
  - *ErrorAction = "SilentlyContinue"* errors are not displayed in the console. 
  - *Try/Catch* error handling Terminating
-
+<div>
 Here is an example of a user who does not exist.
 ![Here is an example of a user who does not exist.](./images/cUserB01.png "User not exist")
-
+</div>
 
 ![The system detected an attempt to log in as a guest user.](./images/cUserB02.png)
