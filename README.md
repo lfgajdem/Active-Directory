@@ -21,12 +21,9 @@ Lists
    title="User not exist">
 </figure>
 
-
-![The system detected an attempt to log in as a guest user.](./images/cUserB02.png "User guest blocked")
-
 <figure>
  <figcaption>The system detected an attempt to log in as a guest user.</figcaption>
-  <img src="./images/cUserB01.png" 
+  <img src="./images/cUserB02.png" 
    alt="The system detected an attempt to log in as a guest user." 
    title="guest user">
 </figure>
