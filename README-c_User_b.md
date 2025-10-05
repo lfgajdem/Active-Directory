@@ -15,8 +15,7 @@ Lists
  - *Try/Catch* error handling Terminating
 
 <figure>
-
-Here is an example of a user who does not exist.
+<figcaption>Here is an example of a user who does not exist.</figcaption>
 ![Here is an example of a user who does not exist.](./images/cUserB01.png "User not exist")
 </figure>
 
