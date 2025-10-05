@@ -1,7 +1,7 @@
 ## Check whether the user is blocked on any domain controller.
 ### Description
 
-The **check_User_blocked.ps1** PowerShell script in this repository allows you to search all domain controllers to see if a user is locked out.
+The [**check_User_blocked.ps1**](https://github.com/lfgajdem/Active-Directory/blob/main/CheckUserBlocked.ps1) PowerShell script in this repository allows you to search all domain controllers to see if a user is locked out.
 You can enter *sAMAccountName*, *DistinguishedName*, *objectSid* or *objectGUID*.
 
 Lists
