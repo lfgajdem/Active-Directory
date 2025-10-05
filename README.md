@@ -14,8 +14,8 @@ Lists
  - *ErrorAction = "SilentlyContinue"* errors are not displayed in the console. 
  - *Try/Catch* error handling Terminating
 
-<figure>
- <figcaption font-size= "1">Fig.1 Here is an example of a user who does not exist.</figcaption>
+<figure font-size= "1">
+ <figcaption>Fig.1 Here is an example of a user who does not exist.</figcaption>
   <img src="./images/cUserB01.png" 
    alt="Here is an example of a user who does not exist." 
    title="User not exist">
